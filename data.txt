@@ -3,5 +3,6 @@
 Name = Arman
 Age = 26
 education = B.sc
+email = email
 
 Final copy
