@@ -2,5 +2,6 @@
 
 Name = Arman
 Age = 26
+education = B.sc
 
-
+Final copy
